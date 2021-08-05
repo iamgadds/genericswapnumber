@@ -1,0 +1,6 @@
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\bin\Debug\GenericSwapNumber.exe.config
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\bin\Debug\GenericSwapNumber.exe
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\bin\Debug\GenericSwapNumber.pdb
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\obj\Debug\GenericSwapNumber.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\obj\Debug\GenericSwapNumber.exe
+C:\Users\Husain.Ghadiyali\source\repos\GenericSwapNumber\GenericSwapNumber\obj\Debug\GenericSwapNumber.pdb
